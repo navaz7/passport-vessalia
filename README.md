@@ -1,0 +1,7 @@
+# Passport Vessalia — The Passport Page of a Country That Isn't There
+
+An open passport spread for the invented Republic of Vessalia (capital: Port Anselm), drawn programmatically with Python and Pillow: a data page for Mara Ilves with a consistent machine-readable zone, and a visas page whose entry/exit stamps all fall after the 2021 issue date. The telling detail is coastal — a "TIDE FEE PAID — 40 KR" stamp and a visa condition requiring the bearer to carry current tide tables when travelling north of the Anselm Light.
+
+[![make.fun · the-passport-page-of-a-countr-2-20261121-0318](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/navaz7/passport-vessalia/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/navaz7/passport-vessalia/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
